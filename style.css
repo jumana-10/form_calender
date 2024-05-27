@@ -14,25 +14,25 @@ body {
 
 /* Default code */
 
-.form {
+.loginForm {
     background-color: rgb(117, 136, 11);
     color: white;
     width: 25%;
     margin: 30px;
 }
 
-.form h3 {
+.loginForm h3 {
     color: white;
     text-align: center;
     font-size: 18px;
     padding: 20px 0 5px;
 }
 
-.input {
+.formGroup {
     margin: 15px 20px;
 }
 
-.input input {
+.formGroup input {
     padding: 6px 25px;
     margin: 0 0 20px;
 }
